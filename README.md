@@ -1,1 +1,1 @@
-# GraphQL_study
+# WebGL_study
